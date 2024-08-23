@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "DEV-MG"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "DEV-MG"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "DEV-MG"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "DEV-MG"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "DEV-MG"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "DEV-MG"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -68,7 +68,7 @@
       }
     },
     "ALZMonitorActionGroupEmail": {
-      "value": ""
+      "value": "alfonsorey@microsoft.com"
     },
     "ALZLogicappResourceId": {
       "value": ""
